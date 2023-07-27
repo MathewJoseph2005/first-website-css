@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+}
+img{
+    border: 5px solid white;
+    margin-top: 80px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+}
