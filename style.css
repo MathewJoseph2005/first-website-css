@@ -1,0 +1,19 @@
+img{
+    height: 338px;
+    width: 338px;
+}
+html{
+    background-color: black;
+}
+p{
+    color: rgb(5, 5, 243);
+    text-align: center;
+    text-transform: uppercase;
+}
+.imga{
+    margin-left: 39%;
+    margin-top: 80px;
+}
+p{
+    font-family: 'Edu SA Beginner', cursive;
+}
